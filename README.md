@@ -23,7 +23,7 @@ JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medici
 
 # How to Use 
 
-1) /examples 폴더에 10개의 예제 사진이 있습니다. (사진의 license 는 CC-BY-NC 입니다.)
+1) /examples 폴더에 10개의 예제 사진이 있습니다. (CC-BY-NC license)
 
 	![capture_exmaple](./img/capture_example_folder.PNG)
 
