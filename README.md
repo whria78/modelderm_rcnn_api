@@ -46,11 +46,10 @@ JAMA Dermatology (doi @) 와 PLOS Medicine (doi @) 에 publish 되었던 region-
 
 결과는 .csv 포맷으로도 저장되며 아래와 같습니다.
 
-https://github.com/whria78/modelderm_rcnn_api/blob/master/RESULT/result.csv
-
 x0,y0,x1,y1,malignancy output,prediction 의 순서로 저장됩니다. prediction 에서 "-" 는 nonspecific lesion 을 나타냅니다.
 
 ![capture_exmaple](./img/capture_result_csv.PNG)
+https://github.com/whria78/modelderm_rcnn_api/blob/master/RESULT/result.csv
 
 
 # Waiting Policy
