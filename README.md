@@ -4,7 +4,7 @@ JAMA Dermatology (doi @) 와 PLOS Medicine (doi @) 에 publish 되었던 region-
 1) Download and install python 3 (ex. anaconda version 3.8 64 bit) at https://www.anaconda.com/products/individual#Downloads
 
 
-![img](./img/download_anaconda.PNG)
+	![img](./img/download_anaconda.PNG)
 
 2) Install opencv
 
@@ -25,7 +25,7 @@ JAMA Dermatology (doi @) 와 PLOS Medicine (doi @) 에 publish 되었던 region-
 
 /examples 폴더에 10개의 예제 사진이 있습니다. (사진의 license 는 CC-BY-NC 입니다.)
 
-![capture_exmaple](./img/capture_example_folder.PNG)
+	![capture_exmaple](./img/capture_example_folder.PNG)
 
 한개의 사진만으로 결과를 얻고 싶다면 아래와 같이 실행합니다.
 
@@ -41,15 +41,15 @@ JAMA Dermatology (doi @) 와 PLOS Medicine (doi @) 에 publish 되었던 region-
 
 결과물은 /result 폴더에 있습니다.
 
-![capture_exmaple](./img/capture_result_folder.PNG)
-![capture_exmaple](./img/capture_result.PNG)
+	![capture_exmaple](./img/capture_result_folder.PNG)
+	![capture_exmaple](./img/capture_result.PNG)
 
 결과는 .csv 포맷으로도 저장되며 아래와 같습니다.
 
 x0,y0,x1,y1,malignancy output,prediction 의 순서로 저장됩니다. prediction 에서 "-" 는 nonspecific lesion 을 나타냅니다.
 
-![capture_exmaple](./img/capture_result_csv.PNG)
-https://github.com/whria78/modelderm_rcnn_api/blob/master/RESULT/result.csv
+	![capture_exmaple](./img/capture_result_csv.PNG)
+	https://github.com/whria78/modelderm_rcnn_api/blob/master/RESULT/result.csv
 
 
 # Waiting Policy
