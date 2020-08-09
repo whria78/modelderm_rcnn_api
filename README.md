@@ -1,4 +1,4 @@
-This is the online API version of the region-based CNN model used for articles published in JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) and PLOS Medicine (doi @). The model API can be used without restriction. **The submitted images will be tagged with the IP address and stored.** They will be used for the sole purpose of training the algorithm to improve its accuracy.
+This is the online RESTful API of the region-based CNN model used for articles published in JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) and PLOS Medicine (doi @). The model API can be used without any restriction. **The submitted images will be tagged with the IP address and stored.** They will be used for the sole purpose of training the algorithm to improve its accuracy.
 
 # Requirement
 1) Download and install python 3 (ex. anaconda version 3.8 64 bit) at https://www.anaconda.com/products/individual#Downloads
@@ -81,7 +81,7 @@ If you do not want your images to be stored due to IRB regulations, please conta
 
 
 # Citation
-1) JAMA Dermatology - model development and validation study
+1) JAMA Dermatology 2019 - a model development and validation study
 
 <pre><code>
 @article{10.1001/jamadermatol.2019.3807,
@@ -92,7 +92,7 @@ If you do not want your images to be stored due to IRB regulations, please conta
 }
 </pre></code>
 
-2) PLOS Medicine - retrospective cohort study
+2) PLOS Medicine 2020 - a retrospective cohort study
 
 <pre><code>
 
