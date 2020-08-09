@@ -1,4 +1,4 @@
-JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medicine (doi @) 에 publish 되었던 region-based CNN 모델의 online API 입니다. 모델 API 는  are provided without restriction. <span style="color:color">**전송된 사진은 IP 정보와 함께 저장되며 algorithm 의 정확도 개선을 위한 목적으로만 사용됩니다. The submitted images are transferred with IP address and stored as a database, which will be used only for the training of the algorithm. **</span>
+JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medicine (doi @) 에 publish 되었던 region-based CNN 모델의 online API 입니다. 모델 API 는  are provided without restriction. **전송된 사진은 IP 정보와 함께 저장되며 algorithm 의 정확도 개선을 위한 목적으로만 사용됩니다. The submitted images are transferred with IP address and stored as a database, which will be used only for the training of the algorithm. **
 
 # Requirement
 1) Download and install python 3 (ex. anaconda version 3.8 64 bit) at https://www.anaconda.com/products/individual#Downloads
