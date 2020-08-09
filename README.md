@@ -23,7 +23,7 @@ JAMA Dermatology (doi @) 와 PLOS Medicine (doi @) 에 publish 되었던 region-
 
 # How to Use 
 
-/examples 폴더에 10개의 예제 사진이 있습니다.
+/examples 폴더에 10개의 예제 사진이 있습니다. (사진의 license 는 CC-BY-NC 입니다.)
 
 ![capture_exmaple](./img/capture_example_folder.PNG)
 
