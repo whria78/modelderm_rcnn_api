@@ -65,7 +65,7 @@ JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medici
 
 
 # Waiting Policy
-현재 test server 는 1장을 분석하는데 10,30초정도 소요되며, 대략 1주일에 2만,3만장을 분석할 수 있는 capacity 를 가지고 있습니다. 동시 사용자가 3명을 초과하는 경우 누적 사용량이 많은 user 가 wait 하는 방식으로 운영되고 있습니다. 개별 사용자의 구별은 IP address 로 하고 있습니다.
+현재 test server (GPU = 2080x1, 1070x1) 는 1장을 분석하는데 10,30초정도 소요되며, 대략 1주일에 2만,3만장을 분석할 수 있는 capacity 를 가지고 있습니다. 동시 사용자가 3명을 초과하는 경우 누적 사용량이 많은 user 가 wait 하는 방식으로 운영되고 있습니다. 개별 사용자의 구별은 IP address 로 하고 있습니다.
 
 
 # Contact Information
