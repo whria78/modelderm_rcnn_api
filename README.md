@@ -6,6 +6,11 @@ JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medici
 
 	![img](./img/download_anaconda.PNG)
 
+	![img](./img/ana1.PNG)
+
+	Please set en...
+	![img](./img/ana2.PNG)
+
 2) Install opencv
 
 	<pre><code>
