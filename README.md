@@ -40,7 +40,7 @@ JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medici
 	</code></pre>
 	
 	
-![capture_exmaple](./img/run_one_file.PNG)
+	![capture_exmaple](./img/run_one_file.PNG)
 
 
 3) 폴더 전체의 사진으로 결과를 얻고 싶다면 아래와 같이 실행합니다.
@@ -50,7 +50,7 @@ JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medici
 	</code></pre>
 	
 	
-![capture_exmaple](./img/run_folder.PNG)
+	![capture_exmaple](./img/run_folder.PNG)
 
 
 4) 결과물은 /result 폴더에 있습니다.
