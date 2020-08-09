@@ -149,9 +149,10 @@ for img_no,img_path in enumerate(img_list):
     ###
     ### RECEIVE PREDEFINED THRESHOLDS
     ###
-    threshold_high_se=float(result_raw_split_[1]) # high sensitivity threshold
-    threshold_high_sp=float(result_raw_split_[2]) # high specificity threshold
-
+    engine_version=result_raw_split_[1]
+    threshold_high_se=float(result_raw_split_[2]) # high sensitivity threshold
+    threshold_high_sp=float(result_raw_split_[3]) # high specificity threshold
+    print(engine_version,threshold_high_se,threshold_high_sp)
     ### FOR DISPLAY
     stream=open(img_path,'rb')
     img_display = cv2.imdecode(np.asarray(bytearray(stream.read()), dtype=np.uint8), cv2.IMREAD_UNCHANGED)

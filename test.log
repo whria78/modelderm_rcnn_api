@@ -1,0 +1,133 @@
+Current users : 0
+
+### Source folder  :  E:\modelderm_rcnn_api\examples
+### Destination folder :  E:\modelderm_rcnn_api\result
+### 10 files are found at E:\modelderm_rcnn_api\examples.
+Processing (1/10) : E:\modelderm_rcnn_api\examples\ex (1).jpg
+201907 0.2545 0.4687
+0 1249 2187 1505 2444 0.037 Melanocytic nevus
+1 1105 2054 1609 2558 0.0149 Melanocytic nevus
+2 450 1840 725 2115 0.0132 -
+3 1777 2322 2033 2578 0.0288 
+4 393 1867 666 2140 0.0131 -
+5 2510 3195 2766 3451 0.0004 -
+Image saved at  E:\modelderm_rcnn_api\result\ex (1).jpg
+Processing (2/10) : E:\modelderm_rcnn_api\examples\ex (10).jpg
+201907 0.2545 0.4687
+0 1492 1346 1816 1670 0.0033 Melanocytic nevus
+1 1348 1228 1914 1794 0.007 Melanocytic nevus
+2 1523 1387 1779 1642 0.0027 Melanocytic nevus
+3 1512 1512 1768 1767 0.0058 Melanocytic nevus
+4 2129 1427 2564 1861 0.0009 cherryhemangioma
+5 1206 2204 1504 2503 0.0005 -
+6 2246 1567 2502 1823 0.0001 cherryhemangioma
+7 1226 2235 1482 2491 0.0007 -
+8 1556 1257 1812 1512 0.0297 Melanocytic nevus
+Image saved at  E:\modelderm_rcnn_api\result\ex (10).jpg
+Processing (3/10) : E:\modelderm_rcnn_api\examples\ex (2).jpg
+201907 0.2545 0.4687
+0 1344 1572 1657 1884 0.0061 Melanocytic nevus
+1 1377 1605 1633 1861 0.0095 Melanocytic nevus
+2 1262 2404 1586 2729 0.0003 Melanocytic nevus
+3 1095 2235 1721 2860 0.0002 Melanocytic nevus
+4 1229 1435 1787 1993 0.0031 Melanocytic nevus
+5 1298 2460 1554 2715 0.0005 Melanocytic nevus
+6 1256 2520 1512 2776 0.0004 Melanocytic nevus
+7 353 1860 609 2115 0.0002 -
+8 1512 1581 1768 1838 0.0038 Melanocytic nevus
+9 1256 1601 1512 1857 0.0033 Melanocytic nevus
+Image saved at  E:\modelderm_rcnn_api\result\ex (2).jpg
+Processing (4/10) : E:\modelderm_rcnn_api\examples\ex (3).jpg
+201907 0.2545 0.4687
+0 1515 1764 1771 2020 0.0042 Melanocytic nevus
+1 1489 1688 1779 1979 0.0029 Melanocytic nevus
+2 1488 1764 1791 2066 0.0011 Melanocytic nevus
+3 1472 1671 1813 2013 0.0034 Melanocytic nevus
+4 1512 1679 1768 1934 0.0011 Melanocytic nevus
+5 1054 2777 1390 3113 0.0002 -
+6 1052 2159 1327 2434 0.0103 -
+7 1083 2181 1399 2496 0.0177 -
+8 1100 2779 1356 3035 0.0012 -
+9 1845 934 2264 1353 0.0378 -
+Image saved at  E:\modelderm_rcnn_api\result\ex (3).jpg
+Processing (5/10) : E:\modelderm_rcnn_api\examples\ex (4).jpg
+201907 0.2545 0.4687
+0 1329 1911 1696 2277 0.0 Hemangioma
+1 1385 1980 1641 2236 0.0 Hemangioma
+2 1120 1739 1840 2458 0.0 Hemangioma
+3 1176 2328 1432 2583 0.0015 -
+4 952 2149 1208 2404 0.016 -
+5 962 2362 1218 2618 0.0006 Lentigo
+6 345 2357 601 2612 0.0003 -
+7 785 3408 1041 3663 0.0035 -
+8 476 2669 732 2926 0.0001 -
+9 775 3346 1044 3615 0.0049 -
+Image saved at  E:\modelderm_rcnn_api\result\ex (4).jpg
+Processing (6/10) : E:\modelderm_rcnn_api\examples\ex (5).jpg
+201907 0.2545 0.4687
+0 1272 1975 1560 2262 0.3233 Malignant melanoma
+1 1255 1923 1586 2253 0.2114 Seborrheic keratosis
+2 1256 2020 1512 2277 0.3171 Malignant melanoma
+3 1197 1970 1512 2285 0.3624 Malignant melanoma
+4 518 2573 774 2829 0.0007 -
+5 487 2543 791 2848 0.0001 -
+6 574 2619 830 2875 0.0005 -
+7 1406 2540 1662 2797 0.0003 -
+8 578 2020 834 2276 0.0002 -
+9 2457 2219 2722 2484 0.0018 -
+10 1659 2679 1915 2935 0.0099 -
+11 1705 1914 1961 2170 0.0001 Epidermal cyst
+12 2136 2183 2397 2444 0.0004 -
+13 2441 885 2716 1160 0.0006 -
+14 2382 886 2644 1149 0.004 -
+Image saved at  E:\modelderm_rcnn_api\result\ex (5).jpg
+Processing (7/10) : E:\modelderm_rcnn_api\examples\ex (6).jpg
+201907 0.2545 0.4687
+0 1087 1327 1700 1939 0.0009 Melanocytic nevus
+1 1239 1470 1554 1785 0.0001 Melanocytic nevus
+2 1253 1530 1509 1786 0.0004 Melanocytic nevus
+3 1993 777 2299 1083 0.0006 -
+4 1927 760 2352 1186 0.0007 -
+5 2008 771 2264 1027 0.0008 -
+Image saved at  E:\modelderm_rcnn_api\result\ex (6).jpg
+Processing (8/10) : E:\modelderm_rcnn_api\examples\ex (7).jpg
+201907 0.2545 0.4687
+0 1302 1961 1650 2310 0.001 Melanocytic nevus
+1 1242 1876 1635 2268 0.0008 Melanocytic nevus
+2 1132 1828 1777 2474 0.0005 Melanocytic nevus
+3 1319 1997 1604 2281 0.0006 Melanocytic nevus
+4 1208 1986 1512 2290 0.0011 Melanocytic nevus
+5 1256 2034 1512 2290 0.0015 Melanocytic nevus
+6 1810 3473 2066 3729 0.0007 -
+7 1933 3271 2189 3527 0.0018 -
+8 876 2556 1132 2811 0.0023 -
+9 972 2955 1228 3211 0.0128 
+Image saved at  E:\modelderm_rcnn_api\result\ex (7).jpg
+Processing (9/10) : E:\modelderm_rcnn_api\examples\ex (8).jpg
+201907 0.2545 0.4687
+0 1121 1684 1750 2313 0.014 Melanocytic nevus
+1 1254 1833 1590 2168 0.0227 Melanocytic nevus
+2 1299 1876 1555 2131 0.0274 Melanocytic nevus
+3 1237 1882 1512 2157 0.0154 Melanocytic nevus
+4 880 1954 1136 2210 0.001 -
+5 1256 2016 1512 2271 0.0248 Melanocytic nevus
+6 945 3081 1201 3338 0.0006 
+7 889 1392 1145 1648 0.0013 -
+Image saved at  E:\modelderm_rcnn_api\result\ex (8).jpg
+Processing (10/10) : E:\modelderm_rcnn_api\examples\ex (9).jpg
+201907 0.2545 0.4687
+0 1250 1680 1795 2225 0.0243 Melanocytic nevus
+1 1388 1807 1644 2063 0.1525 Dysplastic nevus
+2 1345 1743 1639 2037 0.012 Dermatofibroma
+3 806 2436 1062 2692 0.0009 -
+4 1512 1810 1791 2091 0.0064 Dermatofibroma
+5 2617 3110 2873 3367 0.0019 -
+6 2644 3019 2916 3292 0.0015 -
+7 2086 2477 2342 2733 0.001 -
+8 813 966 1069 1221 0.0003 -
+9 2235 2934 2491 3190 0.0005 -
+10 1840 3033 2096 3290 0.0078 -
+11 2086 2773 2342 3029 0.0015 -
+Image saved at  E:\modelderm_rcnn_api\result\ex (9).jpg
+Images and csv result files are saved at  E:\modelderm_rcnn_api\result
+FINISHED
