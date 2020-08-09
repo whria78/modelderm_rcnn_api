@@ -5,9 +5,13 @@ JAMA Dermatology (doi @) 와 PLOS Medicine (doi @) 에 publish 되었던 region-
 ![img](./img/download_anaconda.PNG)
 
 2) Install opencv
+
 	(windows) pip install opencv-python
+
 or
+
 	(linux) sudo pip install opencv-python
+
 ![img](./img/pip_opencv.PNG)
 
 
