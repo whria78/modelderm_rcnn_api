@@ -1,7 +1,7 @@
 JAMA Dermatology (doi @) 와 PLOS Medicine (doi @) 에 publish 되었던 region-based CNN 모델의 online API 입니다. 모델 API 는  are provided without restriction. 전송된 사진은 IP 정보와 함께 저장되며 algorithm 의 정확도 개선을 위한 목적으로만 사용됩니다.
 
 # Requirement
-1) Download and install python 3 (ex. 64 bit python 3.8) at https://www.anaconda.com/products/individual#Downloads
+1) Download and install python 3 (ex. anaconda version 3.8 64 bit) at https://www.anaconda.com/products/individual#Downloads
 ![img](./img/download_anaconda.PNG)
 
 2) Install opencv
