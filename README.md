@@ -74,4 +74,14 @@ IRB issue 로 사진이 저장되기를 원하지 않는 경우 Han Seung Seog (
 
 # Citation
 1) JAMA Dermatology - model development and validation study
+
+<pre><code>
+@article{10.1001/jamadermatol.2019.3807,
+    author = {Han, Seung Seog and Moon, Ik Jun and Lim, Woohyung and Suh, In Suck and Lee, Sam Yong and Na, Jung-Im and Kim, Seong Hwan and Chang, Sung Eun},
+    title = "{Keratinocytic Skin Cancer Detection on the Face Using Region-Based Convolutional Neural Network}",
+    journal = {JAMA Dermatology},
+    year = {2020},
+}
+</pre></code>
+
 2) PLOS Medicine - retrospective cohort study
