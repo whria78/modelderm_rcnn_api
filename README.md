@@ -15,6 +15,10 @@ python test.py [test_folder or test_jpg file] [save_folder]
 
 
 ![capture_exmaple](./img/capture_example_folder.PNG)
+![capture_exmaple](./img/capture_result_folder.PNG)
+![capture_exmaple](./img/download_anaconda.PNG)
+![capture_exmaple](./img/run_folder.PNG)
+![capture_exmaple](./img/run_one_file.PNG)
 
 폴더 사진
 결과 사진
