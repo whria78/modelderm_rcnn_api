@@ -12,6 +12,9 @@ JAMA Dermatology (doi @) 와 PLOS Medicine (doi @) 에 publish 되었던 region-
 	
 	![img](./img/pip_opencv.PNG)
 
+3) Download api files from github and extract files.
+
+	![img](./img/git_download.PNG)
 
 # How to Use 
 
