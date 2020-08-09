@@ -1,4 +1,4 @@
-JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medicine (doi @) 에 publish 되었던 region-based CNN 모델의 online API 입니다. 모델 API 는  are provided without restriction. **전송된 사진은 IP 정보와 함께 저장되며 algorithm 의 정확도 개선을 위한 목적으로만 사용됩니다. The submitted images are transferred with IP address and stored as a database, which will be used only for the training of the algorithm. **
+This is the online API version of the region-based CNN model used for articles published in JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) and PLOS Medicine (doi @). The model API can be used without restriction. **The submitted images will be tagged with the IP address and stored.** They will be used for the sole purpose of training the algorithm to improve its accuracy.
 
 # Requirement
 1) Download and install python 3 (ex. anaconda version 3.8 64 bit) at https://www.anaconda.com/products/individual#Downloads
@@ -29,11 +29,11 @@ JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medici
 
 # How to Use 
 
-1) /examples 폴더에 10개의 예제 사진이 있습니다. (CC-BY-NC license)
+1) There are 10 example images in the folder “/examples”. (CC-BY-NC license)
 
 	![capture_exmaple](./img/capture_example_folder.PNG)
 
-2) 한개의 사진만으로 결과를 얻고 싶다면 아래와 같이 실행합니다.
+2) When performing the test for a single image, run the following command: 
 
 	<pre><code>
 	python test.py [test_jpg file] [save_folder; default=result]
@@ -42,12 +42,12 @@ JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medici
 	
 	![capture_exmaple](./img/run_one_file.PNG)
 
-	또는 test1.bat 를 실행해도 됩니다.
+	Or you can also simply run “test1.bat”
 	
 	![capture_exmaple](./img/batch_for_win.PNG)
 
 
-3) 폴더 전체의 사진으로 결과를 얻고 싶다면 아래와 같이 실행합니다.
+3) When performing the test for all images contained in a folder, run the following command: 
 
 	<pre><code>
 	python test.py [test_folder] [save_folder; default=result]
@@ -56,28 +56,28 @@ JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medici
 	
 	![capture_exmaple](./img/run_folder.PNG)
 
-	또는 test2.bat 를 실행해도 됩니다.
+	Or you can also simply run “test2.bat”
 
 	![capture_exmaple](./img/batch_for_win.PNG)
 
 
-4) 결과물은 /result 폴더에 있습니다.
+4) The results can be found in the folder “/result”. 
 
 	![capture_exmaple](./img/capture_result_folder.PNG)
 	![capture_exmaple](./img/capture_result.PNG)
 
-5) 결과는 .csv 포맷으로도 저장되며 아래와 같습니다. x0,y0,x1,y1,malignancy output,prediction 의 순서로 저장됩니다. prediction 에서 "-" 는 nonspecific lesion 을 나타냅니다.
+5) The results are also stored in the form of “.csv” as below. They are listed in the order of “x0, y0, x1, y1, malignancy output, prediction” In prediction, a hyphen (-) means that the lesion is nonspecific.
 
 	![capture_exmaple](./img/capture_result_csv.PNG)
 	https://github.com/whria78/modelderm_rcnn_api/blob/master/RESULT/result.csv
 
 
 # Waiting Policy
-현재 test server (GPU = 2080x1, 1070x1) 는 1장을 분석하는데 10,30초정도 소요되며, 대략 1주일에 2만,3만장을 분석할 수 있는 capacity 를 가지고 있습니다. 동시 사용자가 3명을 초과하는 경우 누적 사용량이 많은 user 가 wait 하는 방식으로 운영되고 있습니다. 개별 사용자의 구별은 IP address 로 하고 있습니다.
+The current test server (GPU = 2080x1, 1070x1) requires 10 to 30 seconds to analyze one image and is capable of analyzing 20,000~30,000 images weekly, When there are more than three users online, users with heavier usage will have to wait until active analyses are completed. The test server uses the IP address to identify each user.  
 
 
 # Contact Information
-IRB issue 로 사진이 저장되기를 원하지 않는 경우 Han Seung Seog (whria78@gmail.com) 에 contact 하세요. 
+If you do not want your images to be stored (due to IRB regulations, for example), please contact Han Seung Seog (whria78@gmail.com). 
 
 
 # Citation
