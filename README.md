@@ -5,9 +5,9 @@ JAMA Dermatology (doi @) 와 PLOS Medicine (doi @) 에 publish 되었던 region-
 ![img](./img/download_anaconda.PNG)
 
 2) Install opencv
-(windows) pip install opencv-python
+	(windows) pip install opencv-python
 or
-(linux) sudo pip install opencv-python
+	(linux) sudo pip install opencv-python
 ![img](./img/pip_opencv.PNG)
 
 
@@ -19,12 +19,12 @@ or
 
 한개의 사진만으로 결과를 얻고 싶다면 아래와 같이 실행합니다.
 
-python test.py [test_jpg file] [save_folder; default=result]
+	python test.py [test_jpg file] [save_folder; default=result]
 ![capture_exmaple](./img/run_one_file.PNG)
 
 폴더 전체의 사진으로 결과를 얻고 싶다면 아래와 같이 실행합니다.
 
-python test.py [test_folder] [save_folder; default=result]
+	python test.py [test_folder] [save_folder; default=result]
 ![capture_exmaple](./img/run_folder.PNG)
 
 
