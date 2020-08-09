@@ -23,30 +23,28 @@ JAMA Dermatology (doi @) 와 PLOS Medicine (doi @) 에 publish 되었던 region-
 
 # How to Use 
 
-/examples 폴더에 10개의 예제 사진이 있습니다. (사진의 license 는 CC-BY-NC 입니다.)
+1) /examples 폴더에 10개의 예제 사진이 있습니다. (사진의 license 는 CC-BY-NC 입니다.)
 
 	![capture_exmaple](./img/capture_example_folder.PNG)
 
-한개의 사진만으로 결과를 얻고 싶다면 아래와 같이 실행합니다.
+2) 한개의 사진만으로 결과를 얻고 싶다면 아래와 같이 실행합니다.
 
 	python test.py [test_jpg file] [save_folder; default=result]
 ![capture_exmaple](./img/run_one_file.PNG)
 
 
-폴더 전체의 사진으로 결과를 얻고 싶다면 아래와 같이 실행합니다.
+3) 폴더 전체의 사진으로 결과를 얻고 싶다면 아래와 같이 실행합니다.
 
 	python test.py [test_folder] [save_folder; default=result]
 ![capture_exmaple](./img/run_folder.PNG)
 
 
-결과물은 /result 폴더에 있습니다.
+4) 결과물은 /result 폴더에 있습니다.
 
 	![capture_exmaple](./img/capture_result_folder.PNG)
 	![capture_exmaple](./img/capture_result.PNG)
 
-결과는 .csv 포맷으로도 저장되며 아래와 같습니다.
-
-x0,y0,x1,y1,malignancy output,prediction 의 순서로 저장됩니다. prediction 에서 "-" 는 nonspecific lesion 을 나타냅니다.
+5) 결과는 .csv 포맷으로도 저장되며 아래와 같습니다. x0,y0,x1,y1,malignancy output,prediction 의 순서로 저장됩니다. prediction 에서 "-" 는 nonspecific lesion 을 나타냅니다.
 
 	![capture_exmaple](./img/capture_result_csv.PNG)
 	https://github.com/whria78/modelderm_rcnn_api/blob/master/RESULT/result.csv
