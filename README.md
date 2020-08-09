@@ -8,7 +8,7 @@ JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) 와 PLOS Medici
 
 	![img](./img/ana1.PNG)
 
-	Please set en...
+	Please be sure to add the system PATH 
 	![img](./img/ana2.PNG)
 
 2) Install opencv
