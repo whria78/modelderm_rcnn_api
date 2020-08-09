@@ -29,7 +29,7 @@ This is the online RESTful API of the region-based CNN model used for articles p
 
 # How to Use 
 
-1) There are 10 example images in the folder “/examples”. (CC-BY-NC license images)
+1) There are 10 example images in the folder “/examples”. (images under the CC-BY-NC license)
 
 	![capture_exmaple](./img/capture_example_folder.PNG)
 
