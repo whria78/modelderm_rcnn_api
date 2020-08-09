@@ -33,6 +33,7 @@ JAMA Dermatology (doi @) 와 PLOS Medicine (doi @) 에 publish 되었던 region-
 결과물은 /result 폴더에 있습니다.
 
 ![capture_exmaple](./img/capture_result_folder.PNG)
+![capture_exmaple](./img/capture_result.PNG)
 
 결과는 .csv 포맷으로도 저장되며 아래와 같습니다.
 
