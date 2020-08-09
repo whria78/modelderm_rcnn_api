@@ -29,7 +29,7 @@ python test.py [test_folder] [save_folder]
 
 결과는 .csv 포맷으로 저장되며 아래와 같습니다.
 
-
+https://github.com/whria78/modelderm_rcnn_api/blob/master/RESULT/result.csv
 
 
 # Waiting Policy
