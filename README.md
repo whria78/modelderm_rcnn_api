@@ -23,7 +23,7 @@ This is the online RESTful API of the region-based CNN model used for articles p
 	
 	![img](./img/pip_opencv.PNG)
 
-3) Download api files from github and extract files.
+3) Download the API file from github and extract the zip.
 
 	![img](./img/git_download.PNG)
 
