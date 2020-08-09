@@ -61,12 +61,12 @@ This is the online API version of the region-based CNN model used for articles p
 	![capture_exmaple](./img/batch_for_win.PNG)
 
 
-4) The results can be found in the folder “/result”. 
+4) The results can be found in the folder “/RESULT”. 
 
 	![capture_exmaple](./img/capture_result_folder.PNG)
 	![capture_exmaple](./img/capture_result.PNG)
 
-5) The results are also stored in the form of “.csv” as below. They are listed in the order of “x0, y0, x1, y1, malignancy output, prediction” In prediction, a hyphen (-) means that the lesion is nonspecific.
+5) The results are also stored in the form of “.csv” as below. They are listed in the order of “x0, y0, x1, y1, malignancy output, prediction”. The upper-left corner is 'x0, y0' and the lower-right corner is 'x1, y1'. In prediction, a hyphen (-) means that the lesion is nonspecific.
 
 	![capture_exmaple](./img/capture_result_csv.PNG)
 	https://github.com/whria78/modelderm_rcnn_api/blob/master/RESULT/result.csv
