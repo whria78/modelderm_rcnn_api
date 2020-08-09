@@ -36,7 +36,7 @@ This is the online API version of the region-based CNN model used for articles p
 2) When performing the test for a single image, run the following command: 
 
 	<pre><code>
-	python test.py [test_jpg file] [save_folder; default=result]
+	python test.py [test_jpg file] [save_folder; default="RESULT"]
 	</code></pre>
 
 	
@@ -50,7 +50,7 @@ This is the online API version of the region-based CNN model used for articles p
 3) When performing the test for all images contained in a folder, run the following command: 
 
 	<pre><code>
-	python test.py [test_folder] [save_folder; default=result]
+	python test.py [test_folder] [save_folder; default="RESULT"]
 	</code></pre>
 	
 	
