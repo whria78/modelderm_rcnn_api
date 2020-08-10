@@ -55,6 +55,7 @@ This is the online RESTful API of the region-based CNN model (https://rcnn.model
 	
 	
 	![capture_exmaple](./img/run_folder.PNG)
+	https://github.com/whria78/modelderm_rcnn_api/blob/master/test.log
 
 	Or you can also simply run “test2.bat”
 
