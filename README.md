@@ -78,7 +78,7 @@ The current test server (GPU = 2080x1, 1070x1) requires 10 to 30 seconds to anal
 
 
 # Contact Information
-If you do not want your images to be stored due to IRB regulations, please contact Han Seung Seog (whria78@gmail.com). 
+If you do not want your images to be stored due to IRB regulations, please contact Han Seung Seog (whria78@gmail.com). For academic researches regarding testing our algorithm, we can provide an additional server and customized scripts.  
 
 
 # Citation
