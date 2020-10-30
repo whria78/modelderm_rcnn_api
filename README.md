@@ -1,4 +1,4 @@
-This is the online RESTful API of the region-based CNN model (https://rcnn.modelderm.com) used for articles published in JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) and (doi @). The model API can be used without any restriction. **The submitted images will be tagged with the IP address and stored.** They will be used for the sole purpose of training the algorithm to improve its accuracy.
+This is the online RESTful API of the region-based CNN model (https://rcnn.modelderm.com) used for articles published in JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) and (doi @). The model API can be used without any restriction. The submitted images will be transferred with the IP address. But, the images are not stored.
 
 # Requirement
 1) Download and install python 3 (ex. anaconda version 3.8 64 bit) at https://www.anaconda.com/products/individual#Downloads
@@ -78,7 +78,7 @@ The current test server (GPU = 2080x1, 1070x1) requires 10 to 30 seconds to anal
 
 
 # Contact Information
-If you do not want your images to be stored due to IRB regulations, please contact Han Seung Seog (whria78@gmail.com). For academic researches regarding testing our algorithm, we can provide an additional server and customized scripts.  
+If you have any problem in using the algorithm, please contact Han Seung Seog (whria78@gmail.com).
 
 
 # Citation
