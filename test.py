@@ -1,5 +1,5 @@
 ###
-### Model Dermatology RCNN (http://rcnn.modelderm.com) REST API
+### Model Dermatology RCNN (http://rcnn1.modelderm.com) REST API
 ### Han Seung Seog (whria78@gmail.com) 
 ### 
 ### 2020-8-8
@@ -71,7 +71,7 @@ def modelderm(url,unique_id,image_path):
     return res.content
 
 ### Server List ### 
-server_url='https://rcnn.modelderm.com/magi2'
+server_url='https://rcnn1.modelderm.com/magi2'
 
 
 ###
