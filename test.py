@@ -144,7 +144,6 @@ for img_no,img_path in enumerate(img_list):
             print("RESUME")
         elif error_flag!='success':
             print("Failed : %s" % (result_raw))
-            if "No lesion" in result_raw:continue
             sys.exit(1)
 
     ###
