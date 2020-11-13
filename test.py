@@ -9,7 +9,7 @@
 display_status=False 
 import os
 img_root=os.path.join(os.getcwd(),'examples')
-dest_root=os.path.join(os.getcwd(),'result')
+dest_root=os.path.join(os.getcwd(),'RESULT')
 
 import requests
 import sys
