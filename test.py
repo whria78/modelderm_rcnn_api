@@ -127,6 +127,7 @@ for img_no,img_path in enumerate(img_list):
     ###    
 
     error_flag=""
+    no_lesion=False
     while error_flag!='success':
         result_raw=modelderm(server_url,unique_id,img_path).decode('unicode_escape')
         result_raw_split_=result_raw.split(',')
@@ -144,8 +145,12 @@ for img_no,img_path in enumerate(img_list):
             print("RESUME")
         elif error_flag!='success':
             print("Failed : %s" % (result_raw))
+            if "No lesion" in result_raw:
+                no_lesion=True
+                break
             sys.exit(1)
-
+            
+    if no_lesion:continue
     ###
     ### RECEIVE PREDEFINED THRESHOLDS
     ###
