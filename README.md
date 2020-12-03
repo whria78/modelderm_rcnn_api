@@ -96,5 +96,10 @@ If you have any problem in using the algorithm, please contact Han Seung Seog (w
 2) 2020 - a retrospective cohort study
 
 <pre><code>
-
+@article{10.1371/journal.pmed.1003381,
+  author={Han, Seung Seog and Moon, Ik Jun and Kim, Seong Hwan and Na, Jung-Im and Kim, Myoung Shin and Park, Gyeong Hun and Park, Ilwoo and Kim, Keewon and Lim, Woohyung and Lee, Ju Hee and others},
+  title={Assessment of deep neural networks for the diagnosis of benign and malignant skin neoplasms in comparison with dermatologists: A retrospective validation study},
+  journal={PLoS medicine},
+  year={2020},
+}
 </pre></code>
