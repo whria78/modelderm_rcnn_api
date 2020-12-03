@@ -93,7 +93,7 @@ If you have any problem in using the algorithm, please contact Han Seung Seog (w
 }
 </pre></code>
 
-2) 2020 - a retrospective cohort study
+2) PLOS Medicine 2020 - a retrospective cohort study
 
 <pre><code>
 @article{10.1371/journal.pmed.1003381,
