@@ -74,7 +74,7 @@ This is the online RESTful API of the region-based CNN model (https://rcnn1.mode
 
 
 # Waiting Policy
-The current test server (GPU = 2080x1, 1070x1) requires 10 to 30 seconds to analyze one image and is capable of analyzing 20,000~30,000 images weekly, When there are more than three users online, users with heavier usage will have to wait until active analyses are completed. The test server uses the IP address to identify each user.  
+The current test server (GPU = 1070x1, 1050tix1) requires 30 ~ 60 seconds to analyze one image and is capable of analyzing 20,000~30,000 images weekly, When there are more than three users online, users with heavier usage will have to wait until active analyses are completed. The test server uses the IP address to identify each user.  
 
 
 # Contact Information
