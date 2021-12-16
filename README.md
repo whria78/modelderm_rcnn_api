@@ -1,4 +1,4 @@
-This is the online RESTful API of the region-based CNN model (https://rcnn1.modelderm.com) used for articles published in JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) and (https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003381). The model API can be used without any restriction. The submitted images will be transferred with the IP address. Currently, the images are not stored, but all submitted images will be save after 2021, Jan. for further training of the algorithm.
+This is the online RESTful API of the region-based CNN model (https://rcnn1.modelderm.com) used for articles published in JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) and (https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003381). The model API can be used only for the research purposes. The submitted images will be transferred for the cloud analysis, but the images are not stored. Please register (https://bbs.modelderm.com). Only the researcher with email on pubmed.gov will be allowed to use the API.
 
 # Requirement
 1) Download and install python 3 (ex. anaconda version 3.8 64 bit) at https://www.anaconda.com/products/individual#Downloads
@@ -74,7 +74,7 @@ This is the online RESTful API of the region-based CNN model (https://rcnn1.mode
 
 
 # Waiting Policy
-The current test server (GPU = 1070x1, 1050tix1) requires 30 ~ 60 seconds to analyze one image and is capable of analyzing 20,000~30,000 images weekly, When there are more than three users online, users with heavier usage will have to wait until active analyses are completed. The test server uses the IP address to identify each user.  
+The current test server (GPU = 1060x1, 1050tix1) requires 30 ~ 60 seconds to analyze one image and is capable of analyzing 20,000~30,000 images weekly, When there are more than three users online, heavier users will have to wait until active analyses are completed. The test server uses the IP address to identify each user.  
 
 
 # Contact Information
