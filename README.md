@@ -1,4 +1,4 @@
-This is the online RESTful API of the region-based CNN model (https://rcnn1.modelderm.com) used for articles published in JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) and (https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003381). The model API can be used only for the research purposes. The submitted images will be transferred for the cloud analysis, but the images are not stored. 
+This is the online RESTful API of the region-based CNN model (https://rcnn1.modelderm.com) used for articles published in JAMA Dermatology (http://doi.org/10.1001/jamadermatol.2019.3807) and (https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003381). The model API can be used only for the research purposes. The submitted images will be transferred for the cloud analysis, but the images are not stored. Please register at http://bbs.modelderm.com to use the API. The API is open to the computer logged in.
 
 # Requirement
 0) Please register (https://bbs.modelderm.com). Only the researcher with email on pubmed.gov will be allowed to use the API.
